@@ -1,3 +1,6 @@
+group = "com.github.estebanjrdev"
+version = "1.0.0"
+
 plugins {
     alias(libs.plugins.android.library)
     alias(libs.plugins.kotlin.android)
