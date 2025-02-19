@@ -140,7 +140,8 @@ Luego solo lo usas en el formulario:
 FormField.TextField("age", "Edad", "25", listOf(Validators.Required))
 ```
 ### Contribuir 👨‍💻
-Si quieres mejorar ComposeRichForms, ¡toda ayuda es bienvenida!
+Si quieres ayudar a mejorar `ComposeRichForms`, por favor revisa nuestra **[Guía de Contribución](https://github.com/estebanjrdev/ComposeRichForms/blob/main/CONTRIBUTING.md)**.  
+
 
 🔹 Cómo Contribuir
 
