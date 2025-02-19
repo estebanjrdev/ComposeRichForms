@@ -142,15 +142,6 @@ FormField.TextField("age", "Edad", "25", listOf(Validators.Required))
 ### Contribuir 👨‍💻
 Si quieres ayudar a mejorar `ComposeRichForms`, por favor revisa nuestra **[Guía de Contribución](https://github.com/estebanjrdev/ComposeRichForms/blob/main/CONTRIBUTING.md)**.  
 
-
-🔹 Cómo Contribuir
-
-Haz un Fork de este repositorio.
-
-Crea una rama con tu feature o corrección.
-
-Haz un Pull Request (PR) explicando los cambios.
-
 ### Contacto y Soporte 🚀
 📌 Si tienes dudas, abre un issue en GitHub o envíame un mensaje en:
 
